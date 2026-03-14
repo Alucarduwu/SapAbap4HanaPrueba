@@ -1,0 +1,9 @@
+CLASS zbp_i_orders_anahi DEFINITION
+  PUBLIC
+  ABSTRACT
+  FINAL
+  FOR BEHAVIOR OF zi_orders_anahi.
+ENDCLASS.
+
+CLASS zbp_i_orders_anahi IMPLEMENTATION.
+ENDCLASS.

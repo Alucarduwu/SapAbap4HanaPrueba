@@ -1,0 +1,15 @@
+@EndUserText.label : 'Orders table for RAP example'
+@AbapCatalog.enhancement.category : #NOT_EXTENSIBLE
+@AbapCatalog.tableCategory : #TRANSPARENT
+@AbapCatalog.deliveryClass : #A
+@AbapCatalog.dataMaintenance : #RESTRICTED
+define table zorders {
+
+  key client    : abap.clnt not null;
+  key order_id  : abap.numc(10) not null;
+  customer_name : abap.char(50);
+  product       : abap.char(50);
+  amount        : abap.dec(10,2);
+  created_at    : abap.utclong;
+
+}
