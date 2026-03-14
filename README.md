@@ -47,22 +47,26 @@ OData V4 Service
 SAP Fiori Elements Preview
 
 
+## 🧰 Tech Stack
 
-🧰 Tech Stack
-<p align="center"> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sap/sap-original.svg"/> <img height="50" src="https://img.shields.io/badge/ABAP-Cloud-blue"/> <img height="50" src="https://img.shields.io/badge/RAP-SAP%20RESTful%20ABAP-orange"/> <img height="50" src="https://img.shields.io/badge/OData-V4-purple"/> <img height="50" src="https://img.shields.io/badge/Fiori-UI-0FAAFF"/> <img height="50" src="https://img.shields.io/badge/SAP-HANA-red"/> </p>
+<p align="center">
 
-Technologies used in this project:
+<img src="https://img.shields.io/badge/SAP-BTP-blue?style=for-the-badge&logo=sap&logoColor=white">
+<img src="https://img.shields.io/badge/ABAP-Cloud-00A1E0?style=for-the-badge">
+<img src="https://img.shields.io/badge/RAP-RESTful%20ABAP-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/CDS-Views-8A2BE2?style=for-the-badge">
+<img src="https://img.shields.io/badge/API-OData%20V4-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/UI-Fiori%20Elements-0FAAFF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Database-SAP%20HANA-red?style=for-the-badge">
 
-SAP BTP ABAP Environment
+</p>
 
-ABAP Cloud
+### Technologies used in this project
 
-RAP (RESTful ABAP Programming Model)
-
-CDS Views
-
-OData V4
-
-SAP Fiori Elements
-
-SAP HANA Database
+- **SAP BTP ABAP Environment**
+- **ABAP Cloud**
+- **RESTful ABAP Programming Model (RAP)**
+- **CDS Views**
+- **OData V4 APIs**
+- **SAP Fiori Elements**
+- **SAP HANA Database**A Database
