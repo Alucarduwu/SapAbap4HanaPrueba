@@ -1,0 +1,14 @@
+managed implementation in class zbp_i_orders_anahi unique;
+strict ( 2 );
+
+define behavior for ZI_ORDERS_ANAHI
+persistent table zorders
+lock master
+authorization master ( instance )
+{
+  create;
+  update;
+  delete;
+
+  field ( readonly ) created_at;
+}
